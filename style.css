@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.btn-secondary {
+    margin-left: 5px;
+}
+
+#emailInput {
+    margin-bottom: 15px;
+}
+
+.btn-primary {
+    margin-left: 5px;
+}
+#pageTitle {
+    margin-bottom: 10px;
+}
+
+#phoneNumber {
+    margin-bottom: 10px;
+}
+
+#nameInfo {
+    margin-bottom: 10px;
+}
+
+#buttonSection {
+    margin-bottom: 40px;
+}
+
+#profilePic {
+    padding-left: 0;
+}
+
+#aboutMeTitle {
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+
+#bio, .col-12 {
+    padding-top: 20px;
+}
+
